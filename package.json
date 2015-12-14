@@ -1,0 +1,24 @@
+{
+  "name": "cycle-vex-driver",
+  "version": "1.0.0",
+  "description": "A Cycle.js Driver for using Dialog by HubSpot/vex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nakaji-dayo/cycle-vex-driver.git"
+  },
+  "keywords": [
+    "cyclejs",
+    "vex",
+    "dialog"
+  ],
+  "author": "Daishi Nakajima",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nakaji-dayo/cycle-vex-driver/issues"
+  },
+  "homepage": "https://github.com/nakaji-dayo/cycle-vex-driver#readme"
+}
