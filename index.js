@@ -1,5 +1,6 @@
 import Rx from 'rx';
 import vex from 'vex-js/js/vex.dialog.js';
+import _ from 'lodash';
 
 export default function makeVexDriver(className) {
     vex.defaultOptions.className = className;
