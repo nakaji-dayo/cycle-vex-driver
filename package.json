@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/nakaji-dayo/cycle-vex-driver/issues"
   },
-  "homepage": "https://github.com/nakaji-dayo/cycle-vex-driver#readme"
+  "homepage": "https://github.com/nakaji-dayo/cycle-vex-driver#readme",
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "rx": "^4.0.7",
+    "vex-js": "^2.3.3"
+  }
 }
