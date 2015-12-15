@@ -1,6 +1,13 @@
 # cycle-vex-driver
 A Cycle.js Driver for using Dialog by [HubSpot/vex](https://github.com/hubspot/vex)
 
+## install
+[npm](https://www.npmjs.com/package/cycle-vex-driver)
+
+```
+npm install cycle-vex-driver
+```
+
 ## Usage
 ```javascript
 import Rx from 'rx';
